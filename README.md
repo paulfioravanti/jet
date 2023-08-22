@@ -15,6 +15,8 @@ else but me.
 
 ### For Sale
 
+<https://www.paulfioravanti.com/jet/ForSale/forsale.html>
+
 As I was about to leave Kōchi City for good, I made this page to sell my stuff.
 I think I had just learned how to mark up `<table>`s and use HTML tag
 attributes, but clearly things like indentation weren't on my radar yet.
@@ -29,6 +31,8 @@ delusional given how expensive it is to throw away hard rubbish in Japan. I kind
 of wish I still had that iMac and GameCube, though...
 
 ### Menu
+
+<https://www.paulfioravanti.com/jet/Menus/asahilunchmenu.html>
 
 This page contains an English translation of the lunch menu for the
 [Asahi Royal Hotel][] in Kōchi City (ホテル日航高知 旭ロイヤル), accurate as of
